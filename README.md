@@ -3,7 +3,7 @@
 
 Python web scraper for scraping quotes by topic from BrainyQuotes website: https://www.brainyquote.com/
 
-###Before starting
+### Before starting
 
 1) Install Intellij IDEA Community version 2020.3.1 or visual studio code Version: 1.52.1 which I use the two. It is up to your personal preference.
 
